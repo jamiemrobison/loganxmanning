@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Logan.</h1>
 
-<!--
-**loganxmanning/loganxmanning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<center>
+  <table>
+    <tr>
+        <td>
+          <img width="400px" align="center" 
+               src="https://github-readme-stats.vercel.app/api/top-langs/?username=loganxmanning&hide=html,makefile,vhdl,c,qmake,css&langs_count=6&layout=compact&theme=dracula" />
+      </td>
+      <td>
+          <img width="495px" align="center" src="https://github-readme-stats.vercel.app/api?username=loganxmanning&show_icons=true&count_private=true&theme=dracula" />
+      </td>
+    </tr>   
+  </table>
+</center>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 Work as a **Full Stack Web Developer**
+- 📱 Concentrate in **PHP, Symfony, Laravel**
+- 👯 Interested Working On **JS** and **DevOps**
+- 📬 contact me here: **loganxmanning@gmail.com**
